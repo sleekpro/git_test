@@ -1,0 +1,3 @@
+I'm enjoying the realization of how git is soo useful
+to all developers. I'm excited for the journey ahead with 
+git
